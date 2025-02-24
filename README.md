@@ -1,39 +1,24 @@
 # Nomad of the Stars
 
-Nomad of the Stars é um jogo 2D no estilo tower defense com elementos de coleta de recursos e estratégia. A ideia original previa uma experiência mais completa, mas, por ora, o projeto conta apenas com um protótipo inicial que inclui uma única fase.
+Embarque em uma aventura intergaláctica com **Nomad of the Stars**, um jogo de estratégia e tower defense onde você assume o papel de um astronauta perdido, lutando para escapar de um planeta hostil.
 
-## Descrição
+## História
 
-No protótipo atual, o jogador:
-- **Coleta Recursos:** Quebrando árvores e pedras para obter madeira e pedra.
-- **Constrói Defesas:** Posiciona torres de acordo com sua estratégia para proteger sua base.
-- **Enfrenta Ondas:** Inicia a coleta de energia e, simultaneamente, deve se defender das ondas de inimigos.
+Após uma falha catastrófica em sua nave, o astronauta se vê preso em um planeta misterioso e desolado. Para ter uma chance de escapar, ele precisa coletar a energia vital que o planeta possui. Em sua jornada, o sobrevivente descobre que a única maneira de fugir é reunir recursos e construir defesas robustas para enfrentar as ondas de inimigos que guardam a energia necessária para sua fuga.
 
-Embora a ideia inicial envolvesse mecânicas mais complexas e múltiplas fases, este protótipo foca no núcleo do jogo, possibilitando a coleta de recursos e a defesa básica.
+## Como Jogar
 
-## Funcionalidades
+### Objetivo
+- **Coletar Recursos:** Quebre árvores e pedras para obter madeira e pedra.
+- **Construir Defesas:** Utilize os recursos coletados para posicionar torres estrategicamente e proteger sua base.
+- **Coletar Energia:** Inicie a coleta de energia e defenda-se das ondas de inimigos enquanto tenta escapar do planeta.
 
-- **Coleta de Recursos:** 
-  - Quebre árvores e pedras para coletar madeira e pedra.
-- **Construção de Defesas:**
-  - Posicione torres estrategicamente para proteger sua base.
-- **Defesa contra Ondas:**
-  - Após iniciar a coleta de energia, defenda sua base das ondas de inimigos.
-
-## Controles
-
+### Controles
 - **Movimentação:** `W`, `A`, `S`, `D`
-- **Interação:** Botão esquerdo do mouse para quebrar árvores e pedras.
-- **Menu de Torres:** `U` para abrir o menu com as torres disponíveis para posicionamento.
+- **Coleta de Recursos:** Botão esquerdo do mouse para quebrar árvores e pedras.
+- **Menu de Torres:** `U` para abrir o menu e selecionar as torres disponíveis para posicionamento.
 
-## Estado do Projeto
-
-Este projeto está em desenvolvimento e, atualmente, possui apenas a implementação do protótipo básico. Futuras atualizações poderão incluir:
-- Novas fases e mapas
-- Mais tipos de recursos e defesas
-- Aperfeiçoamento das mecânicas de jogo e balanceamento das ondas de inimigos
-
-## Instalação e Execução
+## Instalação
 
 1. **Clone o repositório:**
    ```bash
