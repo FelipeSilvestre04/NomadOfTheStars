@@ -18,8 +18,4 @@ Após uma falha catastrófica em sua nave, o astronauta se vê preso em um plane
 - **Coleta de Recursos:** Botão esquerdo do mouse para quebrar árvores e pedras.
 - **Menu de Torres:** `U` para abrir o menu e selecionar as torres disponíveis para posicionamento.
 
-## Instalação
 
-1. **Clone o repositório:**
-   ```bash
-   git clone <URL-do-repositório>
