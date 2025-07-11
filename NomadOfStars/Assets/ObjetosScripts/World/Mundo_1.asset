@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d48214d5058bd24d9e765564e0c351e, type: 3}
+  m_Name: Mundo_1
+  m_EditorClassIdentifier: 
+  size: 11
+  offSet: 0
+  setpieces:
+  - <piece>k__BackingField: {fileID: 11400000, guid: 73b22202125961f4497417fb9e15d7ea, type: 2}
+    <essential>k__BackingField: 0
+    <rarity>k__BackingField: 1
+    <AmountRange>k__BackingField: 0
+    <minAmount>k__BackingField: 0
+    <maxAmount>k__BackingField: 0
+  - <piece>k__BackingField: {fileID: 11400000, guid: 88963a472c8c3fc4780f03915b069ce9, type: 2}
+    <essential>k__BackingField: 1
+    <rarity>k__BackingField: 0
+    <AmountRange>k__BackingField: 1
+    <minAmount>k__BackingField: 1
+    <maxAmount>k__BackingField: 1
+  - <piece>k__BackingField: {fileID: 11400000, guid: baf95690a55a69740b7ad5ba5db0e0d7, type: 2}
+    <essential>k__BackingField: 0
+    <rarity>k__BackingField: 1
+    <AmountRange>k__BackingField: 0
+    <minAmount>k__BackingField: 0
+    <maxAmount>k__BackingField: 0
+  - <piece>k__BackingField: {fileID: 11400000, guid: d66d9b21d639d2a48acc10762cf14d17, type: 2}
+    <essential>k__BackingField: 0
+    <rarity>k__BackingField: 1
+    <AmountRange>k__BackingField: 0
+    <minAmount>k__BackingField: 0
+    <maxAmount>k__BackingField: 0
+  - <piece>k__BackingField: {fileID: 11400000, guid: e2f9133a6161f4141a0904dbafcd6f4a, type: 2}
+    <essential>k__BackingField: 0
+    <rarity>k__BackingField: 1
+    <AmountRange>k__BackingField: 0
+    <minAmount>k__BackingField: 0
+    <maxAmount>k__BackingField: 0
+  - <piece>k__BackingField: {fileID: 11400000, guid: 9136a60cd52fb344b961a8ac42cb2aec, type: 2}
+    <essential>k__BackingField: 0
+    <rarity>k__BackingField: 2
+    <AmountRange>k__BackingField: 0
+    <minAmount>k__BackingField: 0
+    <maxAmount>k__BackingField: 0
+  - <piece>k__BackingField: {fileID: 11400000, guid: e1cfd7aafb6f3a94ebad75b5496618f0, type: 2}
+    <essential>k__BackingField: 0
+    <rarity>k__BackingField: 3
+    <AmountRange>k__BackingField: 0
+    <minAmount>k__BackingField: 0
+    <maxAmount>k__BackingField: 0
+  - <piece>k__BackingField: {fileID: 11400000, guid: 6ea6e788883eea240beb61632b50c1c6, type: 2}
+    <essential>k__BackingField: 1
+    <rarity>k__BackingField: 3
+    <AmountRange>k__BackingField: 1
+    <minAmount>k__BackingField: 1
+    <maxAmount>k__BackingField: 1
